@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighthouse", "Lighthouse\Lighthouse.csproj", "{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaSingleton2", "AkkaSingleton2\AkkaSingleton2.csproj", "{67665B4E-A6EE-4BED-9BA6-E6AA05D51BCD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{48826B07-C254-4F81-B1F2-543446AC762C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaSingleton3", "AkkaSingleton3\AkkaSingleton3.csproj", "{36036EEC-4100-4D3C-A744-B58C137F8975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{48826B07-C254-4F81-B1F2-543446AC762C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48826B07-C254-4F81-B1F2-543446AC762C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48826B07-C254-4F81-B1F2-543446AC762C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36036EEC-4100-4D3C-A744-B58C137F8975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36036EEC-4100-4D3C-A744-B58C137F8975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36036EEC-4100-4D3C-A744-B58C137F8975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36036EEC-4100-4D3C-A744-B58C137F8975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

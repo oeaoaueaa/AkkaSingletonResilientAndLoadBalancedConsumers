@@ -6,7 +6,7 @@ using Akka.Configuration.Hocon;
 using Akka.Routing;
 using Common;
 
-namespace AkkaSingleton2
+namespace AkkaSingleton3
 {
     class Program
     {
